@@ -23,31 +23,23 @@
 
 Tools: Django, DRF, PostgreSQL, JWT Authentication, Gunicorn, Swagger, Docker, Render, Postman
 
-Applications:
--Supply (to manage products)
--Account (custom user account with jwt authentication and email activation)
+Applications: Supply (to manage products), Account (custom user account with jwt authentication and email activation)
 
 Main API endpoints:
--admin
--supply
--account
+admin, supply, account
 
 Authentication:
--JWT tokens
+JWT tokens
 
-Containerization:
--docker
--render.yml
+Containerization: docker, render.yml
 
-Documentation:
--Swagger
+Documentation: Swagger
 
-Deploy of backend and database:
--Render server
+Deploy of backend and database: Render server
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](/screenshots/Screenshot2024-06-12at17.22.41.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Video presentation of project
