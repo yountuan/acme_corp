@@ -7,3 +7,8 @@ gunicorn
 dj-database-url
 whitenoise
 django-filter
+django-rest-swagger
+openapi-codec
+djangorestframework-simplejwt
+urllib3==1.26.6
+requests
