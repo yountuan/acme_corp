@@ -39,7 +39,10 @@ Deploy of backend and database: Render server
 
 ## Screenshots
 Project structuere
-<img src="/screenshots/Screenshot2024-06-12at17.22.41.png" alt="Screenshot 1" width="200"/>
+<div style="text-align: left;">
+    <img src="/screenshots/Screenshot2024-06-12at17.22.41.png" alt="Screenshot 1" width="200"/>
+</div>
+
 
 ### Admin panel
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.39.png)
