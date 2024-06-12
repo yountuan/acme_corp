@@ -14,7 +14,7 @@ class UserManager(BaseUserManager):
         email = self.normalize_email(email)
         user = self.model(email=email, password=password, **extra_fields)
         user.set_password(password)
-        user.create_activation_code()
+        user.create_activation_code() 
         user.save()
         return user
 

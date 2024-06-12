@@ -31,7 +31,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = []
-# ALLOWED_HOSTS = config('ALLOWED_HOSTS').split(',')
+ALLOWED_HOSTS = config('ALLOWED_HOSTS').split(' ')
 AUTH_USER_MODEL = 'account.User'
 
 # Application definition
@@ -97,8 +97,8 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-# database_url = config('DB_URL')
-# DATABASES['default'] = dj_database_url.parse(database_url)
+database_url = config('DB_URL')
+DATABASES['default'] = dj_database_url.parse(database_url)
 
 
 
