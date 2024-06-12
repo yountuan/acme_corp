@@ -45,8 +45,8 @@ Project structuere
 
 
 ### Admin panel
-![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.39.png)
 ![Screenshot 3](/screenshots/Screenshot2024-06-12at16.58.35.png)
+![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.39.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.24.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.56.56.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.56.42.png)
