@@ -41,14 +41,14 @@ Deploy of backend and database: Render server
 Project structuere
 ![Screenshot 1](/screenshots/Screenshot2024-06-12at17.22.41.png)
 
-Admin panel
+### Admin panel
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.39.png)
 ![Screenshot 3](/screenshots/Screenshot2024-06-12at16.58.35.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.58.24.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.56.56.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at16.56.42.png)
 
-Endpoints
+### Endpoints
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.59.04.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.58.03.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.55.44.png)
