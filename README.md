@@ -57,6 +57,13 @@ Project structuere
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.55.44.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.55.37.png)
 ![Screenshot 2](/screenshots/Screenshot2024-06-12at14.55.02.png)
+![Screenshot 2](/screenshots/Screenshot2024-06-12at18.20.26.png)
+
+
+### Swager Documentation
+![Screenshot 2](/screenshots/Screenshot2024-06-12at19.11.49.png)
+![Screenshot 2](/screenshots/Screenshot2024-06-12at19.12.19.png)
+![Screenshot 2](/screenshots/Screenshot2024-06-12at19.12.36.png)
 
 
 ## Video presentation of project
